@@ -1,0 +1,6 @@
+.username input:invalid{
+    box-shadow: 3px red;
+}
+.age input:invalid{
+    box-shadow:inset 3px red;
+}

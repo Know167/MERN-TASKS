@@ -1,0 +1,40 @@
+.expense_form{
+      background: #00fffc;
+
+}
+
+.expense_form_input {
+  height: 50px;
+  padding: 15px 3px 10px 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background: #00fffc;
+}
+
+.expense_form_input label {
+  margin-bottom: 3px;
+  color: #7c00ff;
+  font-size: medium;
+  font-weight: bold;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+}
+
+.expense_form_input input {
+  background: #7edfde;
+  border: 2px solid ;
+  box-shadow: 2px 2px 1px 1px #467473;
+}
+
+button {
+  height: 35px;
+  width: 20%;
+  background-color: #d83bdb;
+  border: 2px solid ;
+  border-radius: 5px;
+  box-shadow: 2px 2px 1px 1px #467473;
+}

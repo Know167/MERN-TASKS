@@ -1,0 +1,17 @@
+.nameDisplay {
+  border: 2px solid rgb(55, 47, 47);
+  border-radius: 5px;
+  margin-bottom: 5px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  font-weight: bolder;
+  background-color: aliceblue;
+}
+
+.nameDisplay button {
+  margin-right: 0vw;
+  background-color: rgb(246, 50, 50);
+  border: 2px solid black;
+  border-radius: 7px;
+}
